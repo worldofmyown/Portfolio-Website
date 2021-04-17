@@ -1,17 +1,27 @@
 body{
     font-family: 'Lobster', cursive;
+    background-color: rgb(157, 255, 144);
 }
 h1{
     font-size: 50px;
 }
 #large-h3{
     font-size: 30px;
+    margin: -30px;
+    padding-left: 35px;
+}
+#trophy{
+    padding-left: 200px;
+    margin-top: -50px;
 }
 #world-of-my-own{
     color: brown
 }
 #rahik{
-    color: cornflowerblue;
+    color: rgb(53, 102, 194);
+}
+#web-developer{
+    margin-top: 50px;
 }
 .top-half-width{
     width: 40%;
