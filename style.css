@@ -1,6 +1,6 @@
 body{
+    margin: 0px;
     font-family: 'Lobster', cursive;
-    background-color: rgb(157, 255, 144);
 }
 h1{
     font-size: 50px;
@@ -27,8 +27,24 @@ h1{
     width: 40%;
     float: left;
     padding-left: 2%;
-    margin-left: 3%;
+    margin-left: 8%;
 }
 .top-half-width img{
     width: 100%;
+}
+.first-part{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+#hire{
+    text-decoration: none;
+    background-image: linear-gradient(60deg, yellow, red);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: palegoldenrod;
+    line-height: 4;
 }
